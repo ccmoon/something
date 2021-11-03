@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Privacy Policy Xoxland
 
-You can use the [editor on GitHub](https://github.com/ccmoon/something/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Should you have any questions relating to this Privacy Policy, please contact us at roccmoon@gmail.com.
+We reserves the right to modify this Privacy Policy at reasonable times, so please review it frequently. Your continued use of Services will signify your acceptance of the changes to this Privacy Policy.
+1. Non-personal Data
+For purposes of this Privacy Policy, “non-personal data” means information that does not directly identify you. Additionally, non-personal data means “aggregate” and “de-personalized” information, which is data we collects about the use of Services, from which any personally identifiable data has been removed.
+We may use tools or third party analytical software to automatically collect and use certain non-personal data that does not directly enable we to identify you.
+We may use analytics tools to develop and analyze use of the Services. Analytics companies may access anonymous data (such as your IP address, device vendor ID, and/or device advertising ID) to help us understand how Services are used. Analytics tools we may use include:
+Google Analytics for Firebase: If you wish to find out more information on Google Analytics for Firebase, please follow this link: https://www.firebase.com/terms/privacy-policy.html
+Analytics data collection does not include personally identifying information. We does not merge the non-personally identifying analytics data that we collect with personally identifying information from any other source.
+2. Personal Data
+We do not collect any personal information such as names, addresses, phone numbers, emails.
+Although you may provide us with some personnal information when you ask for support on Email, we will never share any personal data with any third party.
+You can fully use the App without submitting any personal information to us. At this time, we do not collect any personal information from you through the App, nor do we use any of your personal information in conjunction with the operation of the App.
+3. Ad Serving Technology
+We reserves the right to use and disclose the collected non-personal data for purposes of advertisement by contractors. We  serve advertising from Google. For more about their privacy policties, you may find it at : https://support.google.com/adwordspolicy/answer/1316548?hl=en
+4. Location Data
+We do not use or collect your precise geographic location.
+5.Cookies
+We do not use cookies for tracking purposes ,You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.
+6.Children Online Privacy Protection Act
+We do not specifically market to children under the age of 13 years old.
+7.Contacting Us
+If there are any questions regarding this privacy policy, you may contact us using the information below.
+roccmoon@gmail.com
+Xoxland Developer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Technical Support
 
-### Markdown
+This is a new match 3 game,  waiting for you to discover!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you encounter any problems while playing this game, please contact us at roccmoon@gmail.com.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ccmoon/something/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
